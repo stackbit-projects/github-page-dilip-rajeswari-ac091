@@ -8,7 +8,7 @@ palette: yellow
 header:
   title: Dilip Rajeswari
   tagline: ML Researcher
-  logo_img_alt: ''
+  logo_img_alt: Dilip Rajeswari
   background_img: images/header-bg.jpg
   has_nav: true
   nav_links:
