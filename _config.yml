@@ -21,7 +21,7 @@ header:
     - label: Scientific Research
       url: /style-guide
       style: link
-    - label: Contact
+    - label: Design Thinking Research
       url: /contact
       style: link
   has_social: true
